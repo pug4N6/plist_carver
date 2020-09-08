@@ -1,5 +1,5 @@
-# plistcarver
-Python script to carve binary plist files
+# plist_carver
+A python script to carve binary plist files.
 
 This is my first "significant" python project, so I'm sure there's lots of room for improvement.
 
